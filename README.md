@@ -1,4 +1,4 @@
-# 👋 Lenka Wang
+# 👋 Data Analyst
 
 Experienced Data Analyst with a strong background in building data reporting solutions, automating ETL processes, and providing actionable insights for decision-making. Skilled in handling complex datasets and creating visualizations that drive business growth.
 
