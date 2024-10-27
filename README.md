@@ -1,10 +1,9 @@
-# 👋 Data Analyst
-
-Experienced Data Analyst with a strong background in building data reporting solutions, automating ETL processes, and providing actionable insights for decision-making. Skilled in handling complex datasets and creating visualizations that drive business growth.
+# Data Analyst
+With deep expertise in the consumer goods industry, skilled in transforming complex data into strategic insights that drive growth and efficiency. Through advanced reporting and forecasting models using tools like Tableau and SQL, I’ve empowered decision-making and achieved top-tier ROI by aligning data analytics with industry-specific goals.
 
 ---
 
-## 🔍 About Me
+## About Me
 
 - 2+ years of experience as a **Data and Reporting Analyst** with a proven track record of enhancing data accessibility and optimizing strategic decision-making at HONOR Device, Beijing.
 - Former **Retail Marketing Manager** at Huawei, successfully implementing data-driven strategies to improve efficiency and reduce costs.
@@ -13,7 +12,7 @@ Experienced Data Analyst with a strong background in building data reporting sol
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **Languages**: SQL, Python, Excel
 - **Visualization**: Power BI, Tableau
@@ -22,14 +21,14 @@ Experienced Data Analyst with a strong background in building data reporting sol
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Master of Economics in Innovation and Change**, University of Jena, Germany
 - **Bachelor of Economics in National Economics**, Shanxi University of Finance and Economics, China
 
 ---
 
-## 💼 Work Experience Highlights
+## Work Experience Highlights
 
 ### Data and Reporting Analyst | HONOR Device - Beijing, China
 - Built reporting infrastructure from the ground up using **Tableau** and **SQL** for real-time insights, impacting 200+ users.
